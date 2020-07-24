@@ -4,7 +4,7 @@
     <property name="created">2020-07-22T21:59:33</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-22T22:01:50</property>
+    <property name="modified">2020-07-24T23:15:01</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -461,7 +461,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="3d69b4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -590,7 +590,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="717cb4" />
+        <option name="FOREGROUND" value="3d69b4" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -2767,7 +2767,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="464b5d" />
+        <option name="FOREGROUND" value="736691" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
